@@ -22,7 +22,7 @@
     "@types/chart.js": "^2.7.40",
     "angular-bootstrap-md": "^8.2.0",
     "body-parser": "^1.18.3",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "core-js": "^2.5.4",
     "express": "^4.16.4",
     "font-awesome": "~4.7.x",
